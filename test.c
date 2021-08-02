@@ -2,5 +2,6 @@
 
 int main()
 {
-  ft_printf("hello");
+	double i = 11;
+	ft_printf("hello %f world\n", i);
 }
